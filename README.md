@@ -2,7 +2,7 @@
 
 We need to perform Data Clean process before analyzing data. 
 
-The data cleaning process contains following steps:
+The data cleansing process contains following steps:
 
 1. Remove Deplicates
 
