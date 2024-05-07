@@ -11,3 +11,5 @@ The data cleaning process contains following steps:
 3. Remove any columns and rows that unneeded
 
 Once the data is cleaned up, then we can perform data analysis. 
+
+If the dataset is unavailable, then you can process the data cleaning stage before executing data analysis via the link: https://github.com/AlexMaAU/SQL-Data-Clean-Demo
